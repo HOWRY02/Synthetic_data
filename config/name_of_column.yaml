@@ -1,0 +1,75 @@
+lop:
+- lop_cu_da_hoc
+mssv:
+- ma_sinh_vien_cu
+khoa:
+- khoa_tt
+tai:
+- d_noi_tao
+truong_hoc:
+- truong_cu_da_hoc
+nganh_hoc:
+- nganh_cu_da_hoc
+- nganh
+- sinh_vien_nganh
+- bac_cd_nganh
+- bac_tccn_nganh
+ten_mon_hoc:
+- ten_mon_hoc_cu
+- ten_mon_hoc_dang_hoc
+- ten_hoc_phan
+- ten_mon
+- ten_mon_ngoai
+- ten_mon_ngoai_1
+- ten_mon_ngoai_2
+ma_mon_hoc:
+- ma_mon_hoc_cu
+- ma_mon_hoc_dang_hoc
+- ma_hoc_phan
+- ma_mh
+- ma_mh_ngoai
+- ma_mh_ngoai_1
+- ma_mh_ngoai_2
+so_tin_chi:
+- so_tin_chi_cu
+- so_tin_chi_ngoai
+- so_tin_chi_ngoai_1
+- so_tin_chi_ngoai_2
+diem:
+- diem_chuyen
+- diem_tich_luy_toan_khoa
+- nghe
+- noi
+- doc
+- viet
+- tong_diem
+hoc_ky:
+- cd_tu_hoc_ki
+- tccn_tu_hoc_ki
+nam_thu:
+- cd_nam_thu
+- tccn_nam_thu
+ngay_day_du:
+- ngay_thi
+- ngay_cap_bang
+ngay:
+- d_ngay
+- qd_ngay
+thang:
+- d_thang
+- qd_thang
+nam:
+- nam_hoc
+- khoa_hoc
+- nam_tot_nghiep
+- d_nam
+so_lon:
+- phong_thi
+- don_so
+- tin_chi_tich_luy
+- so_hieu_bang
+- so_vao_so
+so_nho:
+- nhom
+- tiet_thi
+- so_luong_cap
